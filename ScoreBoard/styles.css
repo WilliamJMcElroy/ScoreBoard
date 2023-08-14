@@ -1,0 +1,21 @@
+/*globals*/
+:root {
+    --scoreBoardColor: rgb(16, 16, 104, .6);
+}
+
+body {
+    background-image: url("https://wallpapercave.com/wp/vvZQmlz.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.scorebox {
+    background-color: var(--scoreBoardColor);
+    justify-content: center;
+}
+
+.scoreBoxBtn {
+    background-color: var(--scoreBoardColor);
+    justify-content: center;
+}
